@@ -16,12 +16,6 @@ object Utils {
     bw
   }
 
-  def writeToFile(bw: BufferedWriter, data: List[String]) = {
-    for (line <- data) {
-      bw.append(line)
-    }
-  }
-
   def toURIFormat(scheme: String, domain: String): String = {
     val encodedDomain = IDN.toASCII(domain)
     s"$scheme://$encodedDomain/"

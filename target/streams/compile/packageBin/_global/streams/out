@@ -1,1 +1,21 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: D:\Scala\cybertonica\target\scala-2.13\crawler_2.13-0.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\Scala\cybertonica\target\scala-2.13\crawler_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Constants$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\cybertonica\target\scala-2.13\classes\Constants$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Constants.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\cybertonica\target\scala-2.13\classes\Constants.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Crawler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\cybertonica\target\scala-2.13\classes\Crawler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Crawler$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\cybertonica\target\scala-2.13\classes\Crawler$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Crawler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\cybertonica\target\scala-2.13\classes\Crawler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\cybertonica\target\scala-2.13\classes\Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\cybertonica\target\scala-2.13\classes\Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebCrawlingService$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\cybertonica\target\scala-2.13\classes\WebCrawlingService$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WebCrawlingService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Scala\cybertonica\target\scala-2.13\classes\WebCrawlingService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

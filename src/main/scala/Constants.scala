@@ -10,7 +10,6 @@ object Constants {
   val BATCH_SIZE = 50
 
   val HTTP_SCHEME = "http"
-  val HTTPS_SCHEME = "https"
 
   val MISSING = "Missing value"
   val UNKNOWN = "Unknown value"
